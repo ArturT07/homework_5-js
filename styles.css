@@ -1,0 +1,21 @@
+.twitter-feed {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+    font-family: Arial, sans-serif;
+}
+
+.posts-container {
+    margin-top: 20px;
+}
+
+.card {
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin: 10px 0;
+}
+
+.card .delete-button {
+    cursor: pointer;
+    color: red;
+}
